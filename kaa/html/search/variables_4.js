@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['end_941',['end',['../structkaa__platform__message__writer__t.html#abd1acb187be8f3b30a79336d4962993f',1,'kaa_platform_message_writer_t::end()'],['../structkaa__platform__message__reader__t.html#a1a9c887147aec6839c2433e29b78285f',1,'kaa_platform_message_reader_t::end()']]],
+  ['endpoint_5faccess_5ftoken_942',['endpoint_access_token',['../structkaa__status__t.html#a6b875f9469e911d26065cbb31146bf3a',1,'kaa_status_t']]],
+  ['endpoint_5fpublic_5fkey_5fhash_943',['endpoint_public_key_hash',['../structkaa__status__t.html#a7a46279ea8d778e8515aa076a54c6819',1,'kaa_status_t']]],
+  ['endpoint_5frequest_5fcounter_944',['endpoint_request_counter',['../structkaa__user__manager__t.html#a5a4be24be1ba3e132e21bb5c369b4916',1,'kaa_user_manager_t']]],
+  ['endpoint_5ftoken_945',['endpoint_token',['../structkaa__endpoint__info__t.html#a5448977de707d0ae1b443a218dc27a41',1,'kaa_endpoint_info_t']]],
+  ['event_5fcallbacks_946',['event_callbacks',['../structkaa__event__manager__t.html#a3a2ebcc2721ec33aed905c3323ef8cc3',1,'kaa_event_manager_t']]],
+  ['event_5fclass_5ffqn_947',['event_class_fqn',['../structkaa__event__t.html#a50826293749f1338ee6055bbdc47a502',1,'kaa_event_t']]],
+  ['event_5fdata_948',['event_data',['../structkaa__event__t.html#af1f88e32390cdc1f31156c29d3ffe589',1,'kaa_event_t']]],
+  ['event_5flisteners_5frequest_5fid_949',['event_listeners_request_id',['../structkaa__event__manager__t.html#a55289e84aef80470b47b0157314b183e',1,'kaa_event_manager_t']]],
+  ['event_5flisteners_5frequests_950',['event_listeners_requests',['../structkaa__event__manager__t.html#a61290851befb4e36d320ffd45faae3ee',1,'kaa_event_manager_t']]],
+  ['event_5fmanager_951',['event_manager',['../structkaa__context__s.html#ae2eb2a7e3ce37b874c77a10a2817c5c9',1,'kaa_context_s']]],
+  ['event_5fseq_5fn_952',['event_seq_n',['../structkaa__status__t.html#aa92bd48e820496676e7bba5682c3a749',1,'kaa_status_t']]],
+  ['event_5fsequence_5fnumber_953',['event_sequence_number',['../structkaa__event__manager__t.html#a1914d9d966582e4419519b1f52914f6b',1,'kaa_event_manager_t']]],
+  ['event_5fsource_954',['event_source',['../structkaa__event__manager__t.html#a3a65cda816dab72772fcc0ff20e94314',1,'kaa_event_manager_t']]],
+  ['events_955',['events',['../structevent__transaction__t.html#aa2dacb72e44828e8b6bec7e89f773d3d',1,'event_transaction_t']]],
+  ['events_5fawaiting_5fresponse_956',['events_awaiting_response',['../structkaa__event__manager__t.html#a9bf2e33860539c345af3c2facfe1b343',1,'kaa_event_manager_t']]],
+  ['extension_5fdata_957',['extension_data',['../structkaa__profile__manager__t.html#adb361a5cf44953fca056d906c9a87cf9',1,'kaa_profile_manager_t']]],
+  ['extension_5fpayload_5fsize_958',['extension_payload_size',['../structkaa__event__manager__t.html#a33e475a24708a3e88b63dab907160c12',1,'kaa_event_manager_t::extension_payload_size()'],['../structkaa__notification__manager__t.html#a33e475a24708a3e88b63dab907160c12',1,'kaa_notification_manager_t::extension_payload_size()']]]
+];
