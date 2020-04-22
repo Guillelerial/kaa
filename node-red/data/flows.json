@@ -1,0 +1,1 @@
+[{"id":"f85b4c10.6e775","type":"tab","label":"Generador datos","disabled":false,"info":""},{"id":"d841e3d3.49d7f","type":"inject","z":"f85b4c10.6e775","name":"","topic":"","payload":"1","payloadType":"str","repeat":"5","crontab":"","once":true,"onceDelay":0.1,"x":190,"y":160,"wires":[[]]}]
