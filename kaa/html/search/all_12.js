@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['uid_5fid_585',['UID_ID',['../kaa__notification__manager_8c.html#ae3f48792629c1ee20793e0bbb940dcf7',1,'kaa_notification_manager.c']]],
+  ['uids_586',['uids',['../structkaa__notification__manager__t.html#a2821253b5c523345ea2f70aa56efce4e',1,'kaa_notification_manager_t']]],
+  ['unsubscription_5fid_587',['UNSUBSCRIPTION_ID',['../kaa__notification__manager_8c.html#abf9de3aa9324ddd4dd88fa17e9e6987e',1,'kaa_notification_manager.c']]],
+  ['unsubscriptions_588',['unsubscriptions',['../structkaa__notification__manager__t.html#a2db8829a2eb6416e2067fbe776042c2a',1,'kaa_notification_manager_t']]],
+  ['user_5faccess_5ftoken_589',['user_access_token',['../structuser__info__t.html#ac4f7455a7b9572de914963b6392096c4',1,'user_info_t']]],
+  ['user_5faccess_5ftoken_5flen_590',['user_access_token_len',['../structuser__info__t.html#a6c1bfd4f6ba4558f0f4e34f9e50c8729',1,'user_info_t']]],
+  ['user_5fattach_5fnotification_5ffield_591',['USER_ATTACH_NOTIFICATION_FIELD',['../kaa__user_8c.html#a9455a9d420acc567e2a9614c29f91fe6aaa233a2b74ce348735979dc04083b14d',1,'kaa_user.c']]],
+  ['user_5fattach_5fresponse_5ffield_592',['USER_ATTACH_RESPONSE_FIELD',['../kaa__user_8c.html#a9455a9d420acc567e2a9614c29f91fe6a8fd5f51edb8f6b6919c0b667a7469fbc',1,'kaa_user.c']]],
+  ['user_5fdetach_5fnotification_5ffield_593',['USER_DETACH_NOTIFICATION_FIELD',['../kaa__user_8c.html#a9455a9d420acc567e2a9614c29f91fe6a18a1e6fe97cce0e118a6b842f379d731',1,'kaa_user.c']]],
+  ['user_5fexternal_5fid_594',['user_external_id',['../structuser__info__t.html#a02862610ee859190c12a2f83718e4da0',1,'user_info_t']]],
+  ['user_5fexternal_5fid_5flen_595',['user_external_id_len',['../structuser__info__t.html#a718b5125e5e6c6b86ba4ef35246cb957',1,'user_info_t']]],
+  ['user_5finfo_596',['user_info',['../structkaa__user__manager__t.html#a83cddc9ed4ba95673ffbc3e17b55e321',1,'kaa_user_manager_t']]],
+  ['user_5finfo_5ft_597',['user_info_t',['../structuser__info__t.html',1,'']]],
+  ['user_5fmanager_598',['user_manager',['../structkaa__context__s.html#a13320bc809eb96931f685728848f3475',1,'kaa_context_s']]],
+  ['user_5fnf_5fversion_5fvalue_599',['USER_NF_VERSION_VALUE',['../kaa__platform__common_8h.html#ae1c38e284ad322b04903df024151aac3a5cce07e193ec665137e10675815e188a',1,'kaa_platform_common.h']]],
+  ['user_5fresult_5ffailure_600',['USER_RESULT_FAILURE',['../kaa__user_8c.html#a7c06e30437b10533985d99949f72db5bacb875afaeb76fa006df36be693279f9c',1,'kaa_user.c']]],
+  ['user_5fresult_5fsuccess_601',['USER_RESULT_SUCCESS',['../kaa__user_8c.html#a7c06e30437b10533985d99949f72db5ba524c2c52920e1d6214f5ce12856a273f',1,'kaa_user.c']]],
+  ['user_5fserver_5fsync_5ffield_5ft_602',['user_server_sync_field_t',['../kaa__user_8c.html#a9455a9d420acc567e2a9614c29f91fe6',1,'kaa_user.c']]],
+  ['user_5fsync_5fendpoint_5fid_5foption_603',['USER_SYNC_ENDPOINT_ID_OPTION',['../kaa__user_8c.html#a23d5560b6d8d562c5f01f240a2b82e07',1,'kaa_user.c']]],
+  ['user_5fsync_5fresult_5ft_604',['user_sync_result_t',['../kaa__user_8c.html#a7c06e30437b10533985d99949f72db5b',1,'kaa_user.c']]],
+  ['user_5fverifier_5ftoken_605',['user_verifier_token',['../structuser__info__t.html#abfce4993e5abdc5ed5903aaafbfb3d55',1,'user_info_t']]],
+  ['user_5fverifier_5ftoken_5flen_606',['user_verifier_token_len',['../structuser__info__t.html#a269a7f360bcc5d74102d3be659f14abb',1,'user_info_t']]]
+];
